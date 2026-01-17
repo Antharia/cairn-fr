@@ -7,39 +7,41 @@ grand_parent: Second Edition
 
 # Aurifex
 
-> You are an artisan of the arcane, a smith of subtle forces. In the crucible of your workshop, the laws that govern this world are warped to suit your needs. 
+> Vous êtes un artisan de l’arcane, un forgeron des forces subtiles. Dans le creuset de votre atelier, les lois du monde se plient à vos désirs.  
 
-## Names
+## Noms
 
 Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
-## Starting Gear
+## Équipement de départ
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Lantern
-- Oil Can (6 uses)
-- Needle-knife (d6)
-- Protective Gloves (_petty_)
+- 3d6 Pièces d’or  
+- Rations (3 utilisations)  
+- Lanterne  
+- Bidon d’huile (6 utilisations)  
+- Couteau-aiguille (d6)  
+- Gants protecteurs (_mineurs_)  
 
-## What went horribly wrong? Roll 1d6:
+## Qu'est-ce qui a terriblement mal tourné ? Lancer 1d6 :
 
 |       |                                                                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | There was an explosion, and you lost your sense of smell. Well, almost: you can sniff out gold as a pig does truffles. Take a **Tin of Snuff** (6 uses) to dampen the impact. Use it every day or become _deprived_.                                  |
-| **2** | You dematerialized a beloved pet. Now it follows you around, invisible but always present. Although it cannot interact with the physical realm, you are able to share its senses. (Add a **Fatigue** each time.) It follows basic commands. |
-| **3** | You were exposed to a long-acting truth serum whose effects have yet to wear off. The disorder has its advantages: you cannot repeat lies you've heard, either.                                                                     |
-| **4** | You were adept at creating _fake_ gold, which is almost as good. Eventually, your ruse was discovered, and you had to make a hasty retreat. Take a heavy **Metal Ingot** and **Gold Powder** (3 uses).                                                    |
-| **5** | Your alchemical recipe worked, but a rival stole the blueprint before your claims could be proven. Take a prototype **Blunderbuss** (d12, _blast_, _bulky_) that takes one round to reload, and a taste for revenge.                                                      |
-| **6** | Ridiculed for discovering how to turn gold into _lead_, you were a laughing stock. Take a bottle of **Universal Solvent** (2 uses) that dissolves anything it touches into its constituent parts.                                   |
+| **1** | Une explosion vous a fait perdre l’odorat. Enfin, presque : vous pouvez flairer l’or comme un cochon flairant les truffes. Prenez une **Boîte de tabac à priser** (6 utilisations) pour atténuer l’effet. Utilisez-la chaque jour ou souffrez de _privation_. |
+| **2** | Vous avez dématérialisé un animal de compagnie adoré. Il vous suit désormais, invisible mais toujours présent. Bien qu’il ne puisse interagir avec le monde physique, vous partagez ses sens. (Ajoutez une **Fatigue** à chaque fois.) Il obéit à des ordres simples. |
+| **3** | Vous avez été exposé à un sérum de vérité à action prolongée dont les effets ne se sont pas encore estompés. Ce désagrément a son avantage : vous ne pouvez pas non plus répéter les mensonges que vous entendez.                                                     |
+| **4** | Vous étiez habile à créer de l’_or faux_, presque aussi bon. Votre ruse découverte, vous avez dû fuir précipitamment. Prenez un **Lingot de métal** lourd et de la **Poudre d’or** (3 utilisations).                                                  |
+| **5** | Votre recette alchimique a fonctionné, mais un rival a volé votre plan avant que vous ne le prouviez. Prenez un prototype de **Tromblon** (d12, _explosif_, _encombrant_) qui demande un tour pour se recharger, et un goût prononcé de la vengeance.            |
+| **6** | Ridiculisé pour avoir démontré comment changer l’or en _plomb_, vous êtes devenu la risée. Prenez une bouteille de **Solvant Universel** (2 utilisations) qui dissout tout ce qu’il touche en ses éléments constitutifs.                              |
 
-## What alchemical marvel is the product of your latest ingenuity? Roll 1d6:
+## Quel prodige alchimique est le fruit de votre dernière ingéniosité ? Lancer 1d6 :
 
 |       |                    |                                                                                                                                                                                                                      |
 | ----- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pyrophoric Gel** | A sticky green fluid that catches fire when exposed to air, then burns for 8 hours. Cannot be extinguished (1 use).                                                                                                |
-| **2** | **Blast Sphere**   | A head-sized iron ball filled with explosive powder that detonates on impact (d12, _blast_, _bulky_, 1 use).                                                                                                             |
-| **3** | **Aqua Vita**      | Purifies any liquid, converting it to pure water. Drinking it cures 1d6 STR (1 use).                                                                                                                                         |
-| **4** | **Mimic Stone**    | Records a short phrase that can later be played back.                                                                                                                                                     |
-| **5** | **Spark Dust**     | Ignites easily and quickly. Useful for starting a fire or as an incendiary device (3 uses).                                                                                                                           |
-| **6** | **Homunculus**     | A miniature clay replica of yourself that follows your every command. It hates being enthralled to you and complains bitterly whenever possible. Any damage done to the homunculus is also done to you. 3 HP, 4 STR, 13 DEX, 5 WIL |
+| **1** | **Gel pyrophorique** | Un fluide visqueux vert qui s’enflamme au contact de l’air et brûle pendant 8 heures. Impossible à éteindre (1 utilisation).                                                                                     |
+| **2** | **Sphère explosive**   | Une boule de fer de la taille d’une tête remplie de poudre qui détonne à l’impact (d12, _explosif_, _encombrant_, 1 utilisation).                                                                               |
+| **3** | **Aqua Vita**      | Purifie tout liquide en le transformant en eau pure. L’ingestion soigne 1d6 FOR (1 utilisation).                                                                                                                   |
+| **4** | **Pierre mimétique**    | Enregistre une courte phrase qui peut être rejouée ultérieurement.                                                                                                                                                 |
+| **5** | **Poudre d’étincelles**     | S’enflamme facilement et rapidement. Utile pour allumer un feu ou comme engin incendiaire (3 utilisations).                                                                                                       |
+| **6** | **Homoncule**     | Réplique miniature en argile de vous-même, obéissant à vos moindres ordres. Il déteste être asservi et se plaint amèrement dès que possible. Tout dommage subi par l’homoncule vous affecte aussi. 3 PV, 4 FOR, 13 DEX, 5 VOL |
+
+
