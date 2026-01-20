@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: Accueil
 nav_order: 1
 permalink: /
 ---
 
-Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly. The game was written by [Yochai Gal](https://newschoolrevolution.com). There are now multiple editions (see sidebar) that are all rules-compatible.
+Cairn est un jeu d'aventure sur l'exploration d'une forêt sombre et mystérieuse remplie de créatures étranges, de trésors cachés et de monstruosités indicibles. La création de personnages est aléatoire et rapide, les aventures sont tendues et récompensent l'exploration attentive, les combats sont frénétiques et mortels. Le jeu a été écrit par [Yochai Gal](https://newschoolrevolution.com). Il existe désormais plusieurs éditions (voir la barre latérale) qui sont toutes compatibles entre elles.
 
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find the source files [here](https://github.com/yochaigal/cairn).
+Le texte intégral est sous licence CC-BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/. Vous pouvez trouver les fichiers sources ici https://github.com/yochaigal/cairn.
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+C'est un jeu qui valorise toutes formes de contributions de la part de sa communauté ! Si vous souhaitez soumettre une aventure, un hack, un monstre ou une conversion, consultez le guide de [soumission](/cairn-fr/submissions/submission-guide).
